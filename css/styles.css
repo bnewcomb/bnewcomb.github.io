@@ -1,0 +1,37 @@
+html {
+  font-family: sans-serif;
+}
+h1 {
+  font-family: "proxima-nova";
+}
+img.logo {
+  width: 200px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+img.logotype {
+  display: block;
+  margin-left: auto;
+  width: 500px;
+  margin-right: auto;
+}
+.billboard {
+  height: 400px;
+  background-size: cover;
+  margin-top: 50px;
+  padding: 30px;
+  background: linear-gradient(#c3002f 0%, rgba(195, 0, 47, 0.8) 10%, rgba(195, 0, 47, 0.3) 40%, rgba(195, 0, 47, 0) 100%), url("/images/header.png");
+}
+.iconfont {
+  font-weight: bold;
+  font-size: 48px;
+  font-family: "proxima-nova";
+  line-height: 300px;
+}
+div.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
